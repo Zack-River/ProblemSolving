@@ -1,1 +1,0 @@
-#Simple Codes when i was Learning C#
